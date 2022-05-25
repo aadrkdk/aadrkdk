@@ -1,5 +1,5 @@
-### Hello, World !
-Welcome to Aadarsh's GitHub profile's 👋
+## Hello, World!
+### Welcome to Aadarsha's GitHub profile!
 
 <!--
 **aadrkdk/aadrkdk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
